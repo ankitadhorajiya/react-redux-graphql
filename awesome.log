@@ -1,0 +1,6 @@
+[ N 2019-08-13 16:13:28.7300 329/T1 age/Wat/WatchdogMain.cpp:1366 ]: Starting Passenger watchdog...
+[ N 2019-08-13 16:13:28.7631 332/T1 age/Cor/CoreMain.cpp:1339 ]: Starting Passenger core...
+[ N 2019-08-13 16:13:28.7632 332/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2019-08-13 16:13:28.7799 332/T1 age/Cor/CoreMain.cpp:1014 ]: Passenger core online, PID 332
+[ N 2019-08-13 16:13:31.8683 332/T5 age/Cor/SecurityUpdateChecker.h:519 ]: Security update check: no update found (next check in 24 hours)
+
